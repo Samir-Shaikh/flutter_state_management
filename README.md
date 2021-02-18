@@ -23,10 +23,10 @@ So, Guys I try to create very simple demo of #state_management. In this demo I h
 4.Bloc_Pattern  
 
 Below will added soon...  
-Redux\
-MobX\
-GetX\
-Riverpod
+-Redux\
+-MobX\
+-GetX\
+-Riverpod
 
 Thanks\
 Suggestions & Improvements always welcome…
