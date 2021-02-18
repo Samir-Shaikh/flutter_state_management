@@ -23,9 +23,9 @@ So, Guys I try to create very simple demo of #state_management. In this demo I h
 4.Bloc_Pattern  
 
 Below will added soon...  
-Redux
-MobX
-GetX
+Redux\
+MobX\
+GetX\
 Riverpod
 
 Thanks\
