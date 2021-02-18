@@ -16,19 +16,19 @@ https://blog.codemagic.io/flutter-tutorial-pros-and-cons-of-state-management-app
 Reason for this Demo:
 I have found lot’s of demo but in complex manner and have bit more features. I just try to make as simple as possible way to understand #StateManagement.
 
-So, Guys I try to create very simple demo of #state_management. In this demo I have used 4 different options for same functionality. So it will easy to understand for #flutter_beginners.
-#1.setState  
-#2.Provider  
-#3.InheritedWidget  
-#4.Bloc_Pattern  
+So, Guys I try to create very simple demo of #state_management. In this demo I have used 4 different options for same functionality. So it will easy to understand for #flutter_beginners.\
+1.setState  
+2.Provider  
+3.InheritedWidget  
+4.Bloc_Pattern  
 
-Below will added soon...
-#Redux
-#MobX
-#GetX
-#Riverpod
+Below will added soon...  
+Redux
+MobX
+GetX
+Riverpod
 
-Thanks 
+Thanks\
 Suggestions & Improvements always welcome…
 
 ## Thanks
