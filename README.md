@@ -1,19 +1,35 @@
 # state_management_flutter
+This repo is about #Flutter_StateManagement. There are multiple state management options available in flutter.
+Each State Management solution has its own characteristics and each person has different preferences. 
 
-A new Flutter application.
+You need to understand which options best fit in your project. I’m not covering theory part as lot’s of post already available. In this demo we will just go with practical.
 
-## Getting Started
+Available Options:
+https://flutter.dev/docs/development/data-and-backend/state-mgmt/options
 
-This project is a starting point for a Flutter application.
+Basic Intro:
+https://www.solutelabs.com/blog/flutter-state-management-everything-you-need-to-know
 
-A few resources to get you started if this is your first Flutter project:
+Pros & Cons
+https://blog.codemagic.io/flutter-tutorial-pros-and-cons-of-state-management-approaches/
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Reason for this Demo:
+I have found lot’s of demo but in complex manner and have bit more features. I just try to make as simple as possible way to understand #StateManagement.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+So, Guys I try to create very simple demo of #state_management. In this demo I have used 4 different options for same functionality. So it will easy to understand for #flutter_beginners.
+#1.setState  
+#2.Provider  
+#3.InheritedWidget  
+#4.Bloc_Pattern  
+
+Below will added soon...
+#Redux
+#MobX
+#GetX
+#Riverpod
+
+Thanks 
+Suggestions & Improvements always welcome…
 
 ## Thanks
 ### Author : Samir Shaikh (samir.shaikh0620@gmail.com)
