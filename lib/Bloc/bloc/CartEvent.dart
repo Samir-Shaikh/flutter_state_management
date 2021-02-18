@@ -1,0 +1,5 @@
+
+enum CartEvent {
+  addToCart,
+  removeFromCart
+}
